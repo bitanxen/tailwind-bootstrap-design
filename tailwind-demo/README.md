@@ -1,11 +1,16 @@
-# Steps Followed to Create The Project:
-----------------------------------------
-
 ### This steps are mostly done by following below link
 https://tailwindcss.com/docs/guides/create-react-app
 
 ## Pre-requisite
 NodeJS should be installed on your system
+
+## Create React App CLI has to be installed on your system
+```
+npm install --global create-react-app
+```
+
+# Steps Followed to Create The Project:
+----------------------------------------
 
 Step 1: Create a React Project
 ```
